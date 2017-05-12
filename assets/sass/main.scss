@@ -1,0 +1,9 @@
+
+// stilsiz düz uikit 
+
+@import "uikit/uikit-mixins.scss";
+
+// bileşen olarak import etmek isterseniz aşağıdaki gibi ayrı ayrı yapılabilir...
+
+@import "uikit/uikit.scss";
+@import "uikit/components/autocomplete.scss";
