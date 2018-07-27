@@ -1,4 +1,4 @@
-# Gulp  Uikit Taximpro.com
+# Gulp  Uikit 2.0 Gökhan Meriç
 
 Gulp ile basit bir iş akışı. SASS, UIKit (Sass sürümü) çerçevesi, HTML5.
 
@@ -101,7 +101,6 @@ Daha sonra bunu silin unutmayın "Readme.md" :)
 
 License
 ----
-
-Taximpro Creative 
+Gökhan Meriç
 
 **Code şiirdir... GM **
